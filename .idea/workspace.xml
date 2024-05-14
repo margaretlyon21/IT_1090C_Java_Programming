@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49a6bccf-f6a4-4ff0-9700-564f1458cd98" name="Changes" comment="Creating Java Class Repository">
-      <change afterPath="$PROJECT_DIR$/src/Lab4/Lab_04_Java_Variables/Lab_04_02_YearlyMaintenanceCost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab4/Lab_04_Java_Variables/Lab_04_03_MonthlyCCBalance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab4/Lab_04_Java_Variables/Lab_04_04_EvenOdd.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +49,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Lab_04_01_SalesTax.executor": "Run",
+    "Application.Lab_04_02_YearlyMaintenanceCost.executor": "Run",
+    "Application.Lab_04_03_MonthlyCCBalance.executor": "Run",
+    "Application.Lab_04_04_EvenOdd.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -55,6 +60,26 @@
     "onboarding.tips.debug.path": "/Users/maggielyon/Desktop/Summer 2024/Java Programming/IT 1090C Java Programming/src/Main.java"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Lab_04_04_EvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab4.Lab_04_Java_Variables.Lab_04_04_EvenOdd" />
+      <module name="IT 1090C Java Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab4.Lab_04_Java_Variables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lab_04_04_EvenOdd" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -88,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715708143338</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Creating Java Class Repository">
+      <option name="closed" value="true" />
+      <created>1715708925586</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715708925586</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
