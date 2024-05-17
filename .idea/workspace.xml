@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49a6bccf-f6a4-4ff0-9700-564f1458cd98" name="Changes" comment="Creating Java Class Repository">
-      <change afterPath="$PROJECT_DIR$/src/Lyon_Maggie_Lab_05/BirthMonth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lyon_Maggie_Lab_05/PartyAffiliation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lyon_Maggie_Lab_05/ShipCostCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lyon_Maggie_Lab_05/TheaterKiosk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab4/Lab_04_Java_Variables/Lab_04_02_YearlyMaintenanceCost.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,32 +21,25 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="PREVIOUS_COMMIT_AUTHORS">
-      <list>
-        <option value="maggielyon &lt;margaret.lyon21@gmail.com&gt;" />
-      </list>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;margaretlyon21&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "margaretlyon21"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/margaretlyon21/IT_1090C_Java_Programming.git&quot;,
-    &quot;accountId&quot;: &quot;123c9fcd-8c2b-42fe-9e0b-e97ba0bca967&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/margaretlyon21/IT_1090C_Java_Programming.git",
+    "accountId": "123c9fcd-8c2b-42fe-9e0b-e97ba0bca967"
   }
-}</component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 3
-}</component>
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
   <component name="ProjectId" id="2gSvL51ClSH1b9MGKaMWsIt4Uie" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -57,12 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Lab_04_01_SalesTax.executor": "Run",
-    "Application.Lab_04_02_YearlyMaintenanceCost.executor": "Run",
-    "Application.Lab_04_03_MonthlyCCBalance.executor": "Run",
-    "Application.Lab_04_04_EvenOdd.executor": "Run",
     "Application.Main.executor": "Run",
-    "Application.ShipCostCalculator.executor": "Run",
-    "Application.TheaterKiosk.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -70,26 +55,6 @@
     "onboarding.tips.debug.path": "/Users/maggielyon/Desktop/Summer 2024/Java Programming/IT 1090C Java Programming/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Lab_04_04_EvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab4.Lab_04_Java_Variables.Lab_04_04_EvenOdd" />
-      <module name="IT 1090C Java Programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lab4.Lab_04_Java_Variables.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Lab_04_04_EvenOdd" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -123,31 +88,7 @@
       <option name="project" value="LOCAL" />
       <updated>1715708143338</updated>
     </task>
-    <task id="LOCAL-00004" summary="Creating Java Class Repository">
-      <option name="closed" value="true" />
-      <created>1715708925586</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1715708925586</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Creating Java Class Repository">
-      <option name="closed" value="true" />
-      <created>1715720944287</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1715720944287</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Creating Java Class Repository">
-      <option name="closed" value="true" />
-      <created>1715720971619</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1715720971619</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
