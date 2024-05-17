@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49a6bccf-f6a4-4ff0-9700-564f1458cd98" name="Changes" comment="Creating Java Class Repository">
-      <change afterPath="$PROJECT_DIR$/src/Lab4/Lab_04_Java_Variables/Lab_04_02_YearlyMaintenanceCost.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lyon_Maggie_Lab_05/BirthMonth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lyon_Maggie_Lab_05/BirthMonth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lyon_Maggie_Lab_05/PartyAffiliation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lyon_Maggie_Lab_05/PartyAffiliation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lyon_Maggie_Lab_05/TheaterKiosk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lyon_Maggie_Lab_05/TheaterKiosk.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,31 +25,35 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "margaretlyon21"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;margaretlyon21&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/margaretlyon21/IT_1090C_Java_Programming.git",
-    "accountId": "123c9fcd-8c2b-42fe-9e0b-e97ba0bca967"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/margaretlyon21/IT_1090C_Java_Programming.git&quot;,
+    &quot;accountId&quot;: &quot;123c9fcd-8c2b-42fe-9e0b-e97ba0bca967&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2gSvL51ClSH1b9MGKaMWsIt4Uie" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BirthMonth.executor": "Run",
     "Application.Lab_04_01_SalesTax.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.PartyAffiliation.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",

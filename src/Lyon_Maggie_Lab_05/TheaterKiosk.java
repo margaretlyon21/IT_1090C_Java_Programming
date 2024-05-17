@@ -4,33 +4,24 @@ import java.util.Scanner;
 public class TheaterKiosk {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        //declare price
-        double price = 0;
+        //declare age + wristband
+        int age = 0;
+        boolean wristband;
         String trash = "";
         //output statement for price
-        System.out.print("Enter the price of the item");
-        // get input for price
-        if(in.hasNextDouble()){
-            price = in.nextDouble();
+        System.out.print("Enter your age: ");
+        // get input for age
+        if(in.hasNextInt()){
+            age = in.nextInt();
             in.nextLine();
         }
         else{
             trash = in.nextLine();
-            System.out.print("You entered an invalid price\n");
+            System.out.print("You entered an invalid age\n");
         }
-        //declare shipping cost
-        double shippingCost;
-        //calculate shipping cost
-        if (price >= 100){
-            shippingCost = price * 0.02;
+        if (age >= 21){
+            System.out.print("You get a wristband!");
         }
-        else{
-            shippingCost = 0;
-        }
-        //calculate total
-        double totalCost = price + shippingCost;
-        //output solutions
-        System.out.print("The shipping cost is " + shippingCost + " and the total cost is " + totalCost);
     }
 
 }
