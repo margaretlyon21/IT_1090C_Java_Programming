@@ -16,7 +16,7 @@ public class Ass01_RockPaperScissors {
             do {
                 System.out.print("Player A: enter your choice (R,P,S): ");
                 A = in.nextLine();
-                if (!(A.equals("R") || A.equals("P") || A.equals("S"))) {
+                if (!(A.equalsIgnoreCase("R") || A.equalsIgnoreCase("P") || A.equalsIgnoreCase("S"))) {
                     System.out.print("You must enter R, P, or S! Try again!\n");
                 } else {
                     done = true;
@@ -26,23 +26,23 @@ public class Ass01_RockPaperScissors {
             do {
                 System.out.print("Player B: enter your choice (R,P,S): ");
                 B = in.nextLine();
-                if (!(B.equals("R") || B.equals("P") || B.equals("S"))) {
+                if (!(B.equalsIgnoreCase("R") || B.equalsIgnoreCase("P") || B.equalsIgnoreCase("S"))) {
                     System.out.print("You must enter R, P, or S! Try again!\n");
                 } else {
                     done = true;
                 }
             } while (!done);
-            if (A.equals("R") && B.equals("S")) {
+            if (A.equalsIgnoreCase("R") && B.equalsIgnoreCase("S")) {
                 System.out.print("Rock breaks Scissors! Player A wins!\n");
-            } else if (A.equals("S") && B.equals("R")) {
+            } else if (A.equalsIgnoreCase("S") && B.equalsIgnoreCase("R")) {
                 System.out.print("Rock breaks Scissors! Player B wins!\n");
-            } else if (A.equals("R") && B.equals("P")) {
+            } else if (A.equalsIgnoreCase("R") && B.equalsIgnoreCase("P")) {
                 System.out.print("Paper covers rock! Player B wins!\n");
-            } else if (A.equals("P") && B.equals("R")) {
+            } else if (A.equalsIgnoreCase("P") && B.equalsIgnoreCase("R")) {
                 System.out.print("Paper covers rock! Player A wins!\n");
-            } else if (A.equals("P") && B.equals("S")) {
+            } else if (A.equalsIgnoreCase("P") && B.equalsIgnoreCase("S")) {
                 System.out.print("Scissors cut paper! Player B wins!\n");
-            } else if (A.equals("S") && B.equals("P")) {
+            } else if (A.equalsIgnoreCase("S") && B.equalsIgnoreCase("P")) {
                 System.out.print("Scissors cut paper! Player A wins!\n");
             } else {
                 System.out.print(A + " vs " + B + ". Its a tie!\n");
@@ -52,9 +52,9 @@ public class Ass01_RockPaperScissors {
                 do {
                     System.out.print("Do you wish to continue? Y/N\n");
                     choice = in.nextLine();
-                    if (!(choice.equals("Y") || choice.equals("N"))) {
+                    if (!(choice.equalsIgnoreCase("Y") || choice.equalsIgnoreCase("N"))) {
                         System.out.print("You must enter Y/N! Try again!\n");
-                    } else if (choice.equals("N")) {
+                    } else if (choice.equalsIgnoreCase("N")) {
                         done = true;
                         System.out.print("Thanks for Playing!\n");
                         break;
