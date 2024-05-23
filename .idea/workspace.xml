@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49a6bccf-f6a4-4ff0-9700-564f1458cd98" name="Changes" comment="Creating Java Class Repository">
-      <change afterPath="$PROJECT_DIR$/src/GettingLoopy/Dieroller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GettingLoopy/partACountingLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GettingLoopy/partBNestedLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ass02_Craps/gameOfCraps.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +59,7 @@
     "Application.PartyAffiliation.executor": "Run",
     "Application.RectangleInfo.executor": "Run",
     "Application.TheaterKiosk.executor": "Run",
+    "Application.gameOfCraps.executor": "Run",
     "Application.partACountingLoops.executor": "Run",
     "Application.partBNestedLoops.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -135,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716327844248</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Creating Java Class Repository">
+      <option name="closed" value="true" />
+      <created>1716494968108</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1716494968108</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
