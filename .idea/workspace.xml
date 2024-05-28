@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49a6bccf-f6a4-4ff0-9700-564f1458cd98" name="Changes" comment="Creating Java Class Repository">
-      <change afterPath="$PROJECT_DIR$/src/Ass02_Craps/gameOfCraps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_08_GetMethodical/BirthDateTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_08_GetMethodical/CheckOut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_08_GetMethodical/FavNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_08_GetMethodical/GetUserName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_08_GetMethodical/PrettyHeader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_08_GetMethodical/Reggie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_08_GetMethodical/SafeInput.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +41,9 @@
     &quot;accountId&quot;: &quot;123c9fcd-8c2b-42fe-9e0b-e97ba0bca967&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -49,15 +58,21 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Ass01_RockPaperScissors.executor": "Run",
+    "Application.BirthDateTime.executor": "Run",
     "Application.BirthMonth.executor": "Run",
+    "Application.CheckOut.executor": "Run",
     "Application.CtoFConverter.executor": "Run",
     "Application.Dieroller.executor": "Run",
+    "Application.FavNumbers.executor": "Run",
     "Application.FuelCosts.executor": "Run",
+    "Application.GetUserName.executor": "Run",
     "Application.HighorLow.executor": "Run",
     "Application.Lab_04_01_SalesTax.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.PartyAffiliation.executor": "Run",
+    "Application.PrettyHeader.executor": "Run",
     "Application.RectangleInfo.executor": "Run",
+    "Application.Reggie.executor": "Run",
     "Application.TheaterKiosk.executor": "Run",
     "Application.gameOfCraps.executor": "Run",
     "Application.partACountingLoops.executor": "Run",
@@ -69,6 +84,11 @@
     "onboarding.tips.debug.path": "/Users/maggielyon/Desktop/Summer 2024/Java Programming/IT 1090C Java Programming/src/Main.java"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Lab7" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -142,7 +162,23 @@
       <option name="project" value="LOCAL" />
       <updated>1716494968108</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Creating Java Class Repository">
+      <option name="closed" value="true" />
+      <created>1716496513800</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1716496513800</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Creating Java Class Repository">
+      <option name="closed" value="true" />
+      <created>1716496564967</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1716496564967</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
