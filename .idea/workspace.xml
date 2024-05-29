@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49a6bccf-f6a4-4ff0-9700-564f1458cd98" name="Changes" comment="Creating Java Class Repository">
-      <change afterPath="$PROJECT_DIR$/src/Lab_11_List_Maker/Lab_11_List_Maker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_11_List_Maker/SafeInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab12/NIO_Path_File_Complete/src/DataSaver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab12/NIO_Path_File_Complete/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab12/NIO_Path_File_Complete/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab12/NIO_Path_File_Complete/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab12/NIO_Path_File_Complete/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab12/NIO_Path_File_Complete/src/FileInspector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab12/NIO_Path_File_Complete/src/NIOReadTextFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab12/NIO_Path_File_Complete/src/NIOReadTextFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab12/NIO_Path_File_Complete/src/NIOReadingDelimitedFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab12/NIO_Path_File_Complete/src/NIOReadingDelimitedFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab12/NIO_Path_File_Complete/src/NIOWriteTextFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab12/NIO_Path_File_Complete/src/NIOWriteTextFile.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +29,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/Lab12/NIO_Path_File_Complete" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -57,8 +64,10 @@
     "Application.BirthMonth.executor": "Run",
     "Application.CheckOut.executor": "Run",
     "Application.CtoFConverter.executor": "Run",
+    "Application.DataSaver.executor": "Run",
     "Application.Dieroller.executor": "Run",
     "Application.FavNumbers.executor": "Run",
+    "Application.FileInspector.executor": "Run",
     "Application.FuelCosts.executor": "Run",
     "Application.GetUserName.executor": "Run",
     "Application.HighorLow.executor": "Run",
@@ -66,6 +75,7 @@
     "Application.Lab_09_ArrayStuff.executor": "Run",
     "Application.Lab_11_List_Maker.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.NIOReadingDelimitedFile.executor": "Run",
     "Application.PartyAffiliation.executor": "Run",
     "Application.PrettyHeader.executor": "Run",
     "Application.RectangleInfo.executor": "Run",
@@ -77,13 +87,14 @@
     "Application.partBNestedLoops.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "/Users/maggielyon/Desktop/Summer 2024/Java Programming/IT 1090C Java Programming/src/Main.java"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Lab12" />
       <recent name="$PROJECT_DIR$/src/Lab7" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -205,7 +216,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716948211225</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Creating Java Class Repository">
+      <option name="closed" value="true" />
+      <created>1717002861686</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1717002861686</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
