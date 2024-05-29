@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49a6bccf-f6a4-4ff0-9700-564f1458cd98" name="Changes" comment="Creating Java Class Repository">
-      <change afterPath="$PROJECT_DIR$/src/Lab_09_ArrayStuff/Lab_09_ArrayStuff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_09_ArrayStuff/SafeInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_10_Tic_Tac_Toe/SafeInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_10_Tic_Tac_Toe/TicTacToe.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,6 +70,7 @@
     "Application.RectangleInfo.executor": "Run",
     "Application.Reggie.executor": "Run",
     "Application.TheaterKiosk.executor": "Run",
+    "Application.TicTacToe.executor": "Run",
     "Application.gameOfCraps.executor": "Run",
     "Application.partACountingLoops.executor": "Run",
     "Application.partBNestedLoops.executor": "Run",
@@ -85,6 +86,7 @@
       <recent name="$PROJECT_DIR$/src/Lab7" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Lab_10_Tic_Tac_Toe" />
       <recent name="Lab_09_ArrayStuff" />
     </key>
   </component>
@@ -185,7 +187,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716933551173</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Creating Java Class Repository">
+      <option name="closed" value="true" />
+      <created>1716943326784</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1716943326785</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
