@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49a6bccf-f6a4-4ff0-9700-564f1458cd98" name="Changes" comment="Creating Java Class Repository">
-      <change afterPath="$PROJECT_DIR$/src/Lab_08_GetMethodical/BirthDateTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_08_GetMethodical/CheckOut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_08_GetMethodical/FavNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_08_GetMethodical/GetUserName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_08_GetMethodical/PrettyHeader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_08_GetMethodical/Reggie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_08_GetMethodical/SafeInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_09_ArrayStuff/Lab_09_ArrayStuff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_09_ArrayStuff/SafeInput.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +37,7 @@
   }
 }</component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -68,6 +63,7 @@
     "Application.GetUserName.executor": "Run",
     "Application.HighorLow.executor": "Run",
     "Application.Lab_04_01_SalesTax.executor": "Run",
+    "Application.Lab_09_ArrayStuff.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.PartyAffiliation.executor": "Run",
     "Application.PrettyHeader.executor": "Run",
@@ -87,6 +83,9 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Lab7" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Lab_09_ArrayStuff" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -178,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716496564967</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Creating Java Class Repository">
+      <option name="closed" value="true" />
+      <created>1716933551173</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1716933551173</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
