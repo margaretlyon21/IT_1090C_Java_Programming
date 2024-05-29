@@ -1,3 +1,4 @@
-Maggie, Lyon, 123456, lyonme@mail.uc.edu, 2003
-Andrew, Wilson, 987654, awilson@gmail.com, 2008
-Anna, Gray, 654789, acg@yahoo.com, 1965
+bob
+mite
+cat
+bear
