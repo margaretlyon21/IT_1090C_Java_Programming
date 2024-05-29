@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49a6bccf-f6a4-4ff0-9700-564f1458cd98" name="Changes" comment="Creating Java Class Repository">
-      <change afterPath="$PROJECT_DIR$/src/Lab_10_Tic_Tac_Toe/SafeInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_10_Tic_Tac_Toe/TicTacToe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_11_List_Maker/Lab_11_List_Maker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_11_List_Maker/SafeInput.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +64,7 @@
     "Application.HighorLow.executor": "Run",
     "Application.Lab_04_01_SalesTax.executor": "Run",
     "Application.Lab_09_ArrayStuff.executor": "Run",
+    "Application.Lab_11_List_Maker.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.PartyAffiliation.executor": "Run",
     "Application.PrettyHeader.executor": "Run",
@@ -86,6 +87,7 @@
       <recent name="$PROJECT_DIR$/src/Lab7" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Lab_11_List_Maker" />
       <recent name="Lab_10_Tic_Tac_Toe" />
       <recent name="Lab_09_ArrayStuff" />
     </key>
@@ -195,7 +197,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716943326785</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Creating Java Class Repository">
+      <option name="closed" value="true" />
+      <created>1716948211225</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1716948211225</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -212,5 +222,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creating Java Class Repository" />
     <option name="LAST_COMMIT_MESSAGE" value="Creating Java Class Repository" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lab_10_Tic_Tac_Toe/TicTacToe.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
